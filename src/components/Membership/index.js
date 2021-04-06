@@ -36,7 +36,8 @@ export default function Membership() {
                     toggleActions: "restart complete "
                 }
             });
-        })
+        }) 
+		
     return (
         <div className="membership" id="plans">
             <h1 className="animate-membership">View Our Plans</h1>
