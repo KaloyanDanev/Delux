@@ -65,7 +65,7 @@ export default function Membership() {
                         <p>Group Fitness Classes</p>
                         <p>$49 Per Month</p>
                     </div>
-                    <a href="#" className="button">Sign Up</a>
+                    <Link to="#" className="button">Sign Up</Link>
                 </div>
                 <div className="membership-card animate-card">
                     <div className="membership-title">
